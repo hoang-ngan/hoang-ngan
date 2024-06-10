@@ -6,13 +6,13 @@
 * 📧 lyhoangngan3009@gmail.com
 * ✉️ https://www.facebook.com/hng.ngann.102
 ## 💻 FULL-STACK DEVELOPER:
-* Front-end:
+* **Front-end**:
   * HTML, CSS, Javascript
   * React JS, Tailwind CSS
-* Back-end:
+* **Back-end**:
   * Node.js (Express)
   * Java Spring Boot
-* Database:
+* **Database**:
   * MySQL
   * MongoDB 
 
