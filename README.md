@@ -5,6 +5,10 @@
 * 📞 +84 907 632 302
 * 📧 lyhoangngan3009@gmail.com
 * ✉️ https://www.facebook.com/hng.ngann.102
+## 💻 AI Engineer:
+* **Computer Vision**
+* **Machine Learning**
+* **Deep Learning**
 ## 💻 FULL-STACK DEVELOPER:
 * **Front-end**:
   * HTML, CSS, Javascript
